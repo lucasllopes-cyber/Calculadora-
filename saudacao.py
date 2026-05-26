@@ -6,3 +6,6 @@ def soma(n1,n2):
   return(resultado)
 
 print(saudacao('Lopes'))
+
+def despedida(nome):
+  return f'Ate mais, {nome} 
